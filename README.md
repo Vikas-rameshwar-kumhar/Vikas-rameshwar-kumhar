@@ -12,10 +12,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+![logo](https://github.com/Vikas-rameshwar-kumhar/Vikas-rameshwar-kumhar/blob/main/Banner.png) 
 -->
-
-<!-- ![logo]() -->
-
 
 <h1 align="center">Hi 👋, I'm Vikas Kumhar</h1>
 <h3 align="center">A Passionate Software Developer from India❤️.</h3>
